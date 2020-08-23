@@ -12,6 +12,6 @@
 #   - It the user's input is equal to "exit": `Goodbye!`
 #
 # Run `learn` to see your progress and `learn submit` when you've solved the lab.
-require_relative "../guessing_game_cli"
+require_relative "../guessing_game_cli.rb"
 
 run_guessing_game
