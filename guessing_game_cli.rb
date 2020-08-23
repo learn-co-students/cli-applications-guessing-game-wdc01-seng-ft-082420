@@ -29,5 +29,3 @@ def run_guessing_game
   user_prompt
   results
 end
-
-run_guessing_game
