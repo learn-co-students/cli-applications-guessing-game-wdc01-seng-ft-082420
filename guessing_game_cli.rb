@@ -1,4 +1,4 @@
-require_relative "../guessing_game_cli.rb"
+
 
 def user_prompt
   puts "Guess a number between 1-6 or type 'exit' to quit the game!"
